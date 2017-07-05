@@ -1,0 +1,31 @@
+{
+  "name": "rdjson",
+  "version": "1.0.0",
+  "description": "Read and parse a JSON file in Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryStevens/rdjson.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "json"
+  ],
+  "author": "Harry Stevens <harryjosephstevens@gmail.com> (http://harryjstevens.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryStevens/rdjson/issues"
+  },
+  "homepage": "https://github.com/HarryStevens/rdjson#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
