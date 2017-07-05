@@ -8,7 +8,7 @@ A tiny package that reads and parses JSON files in Node.
 
 ## Usage
 
-```
+```js
 var rdjson = require("rdjson");
 
 var json = rdjson("path/to/file.json");
