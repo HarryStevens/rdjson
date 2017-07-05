@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/HarryStevens/rdjson.svg?branch=master)](https://travis-ci.org/HarryStevens/rdjson)[![Coverage Status](https://coveralls.io/repos/github/HarryStevens/rdjson/badge.svg?branch=master)](https://coveralls.io/github/HarryStevens/rdjson?branch=master)
+
 # rdjson
 
 A tiny package that reads and parses JSON files in Node.
